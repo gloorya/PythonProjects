@@ -1,1 +1,1 @@
-# git-project1
+# DE practices
